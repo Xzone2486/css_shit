@@ -1,0 +1,27 @@
+body {
+    background-image: url(../img/nat1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+h1 {
+    color: white;
+    font-family: "Caveat";
+    font-size: 60px;
+    border-bottom: dashed;
+}
+p {
+    color: white;
+}
+
+.b1 {
+    width: 180px;
+    border: solid;
+    border-radius: 10px;
+    border-color: aliceblue;
+    padding-left: 33%;
+    background: rgba(0, 0, 0, 0.3);
+}
