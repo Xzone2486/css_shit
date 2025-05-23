@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+.ep4,.ep5,.ep6 {
+    float: left;
+}
+
+p,h3 {
+    width: 300px;
+}
+
+img {
+    margin: 50px;
+}
