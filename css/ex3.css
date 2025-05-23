@@ -5,12 +5,22 @@ body {
 
 .ep4,.ep5,.ep6 {
     float: left;
+    border: solid;
+    margin: 10px;
+}
+
+h1 {
+    margin-left: 25px;
+    font-family: 'Star Wars', sans-serif;
 }
 
 p,h3 {
     width: 300px;
+    padding: 10px;
 }
 
 img {
+    border: double;
+    border-color: goldenrod;
     margin: 50px;
 }
