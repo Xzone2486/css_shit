@@ -1,5 +1,6 @@
 body {
-    background-image: url(../img/sw1.jpg);
+    /* background-image: url(../img/sw1.jpg); */
+    background-color: gold;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -12,7 +13,7 @@ body {
     font-size: large;
     font-family: cursive;
     border: solid;
-    border-radius: 10px;
+    border-radius: 10px; 
     border-color: black;
     padding: 10px;
     width: 180px;
@@ -29,6 +30,7 @@ body {
 .box1 {
     background-color: rgb(73, 101, 119);
     margin: 10px;
+
 }
 .box2 {
     background-color: cadetblue;
@@ -37,4 +39,5 @@ body {
 .box3 {
     background-color: darkcyan;
     margin: 10px;
+
 }
